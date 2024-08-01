@@ -1,3 +1,5 @@
-npm install -g @vue/cli
-vue creat aichatbot
-(choose default settings)
+- npm install -g @vue/cli
+- vue creat aichatbot
+- (choose default settings)
+- cd aichatbot
+- npm install axios
