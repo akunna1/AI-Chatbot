@@ -2,4 +2,4 @@
 - vue creat aichatbot
 - (choose default settings)
 - cd aichatbot
-- npm install axios
+- npm install axios (to fetch APIs)
